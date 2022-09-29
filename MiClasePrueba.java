@@ -6,7 +6,9 @@ package es.miguelrtdev.pruebaGit;
  *
  */
 public class MiClasePrueba {
-
+	/**
+	 * Holas
+	 */
 	public static void main(String[] args) {
 		System.out.println("Hola");
 	}
